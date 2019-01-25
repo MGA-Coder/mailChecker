@@ -1,3 +1,5 @@
+<?php
+
 /**
  * mailValid - check if this is correct the email Adress or not and check if found and remove any hidden character
  * @param  [string] $email
